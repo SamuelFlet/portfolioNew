@@ -1,26 +1,28 @@
-import React from 'react';
-import logo from "../logo.svg"
-import "../styles/App.css"
+import React from "react";
+import "../styles/App.css";
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p className='text-3xl font-bold underline'>
-          Edit <code>src/App.tsx</code> and save to reload.
+    <div className="bg-slate-800">
+      <div id="into" className="pt-20 pb-20">
+        <h2 className="text-6xl font-bold">Hello there,</h2>
+        <p className="font-sans pt-4 w-96">
+          Hello there, I'm Samuel Fletcher. I am a Fullstack developer who works
+          with React, Vue, and multiple backend frameworks
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <div className="pt-5">
+          <button
+            type="button"
+            className="text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-10 py-2.5 text-center mr-2 mb-2"
+          >
+            My Resume
+          </button>
+        </div>
+      </div>
+      <div className="w-24 bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl font-medium rounded-md px-1 py-1.5 mr-1 mb-2" />
+      <div id="into" className="pt-20 pb-20">
+      <h2 className="text-6xl font-bold">Projects</h2>
+      </div>
     </div>
   );
 }
-
-export default App;
