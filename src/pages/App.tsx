@@ -50,12 +50,24 @@ export default function App() {
                   <p className="px-2">Vue </p>
                   <p className="px-2">NuxtJS </p>
                 </div>
-                <button
-                  type="button"
-                  className="text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-10 py-2.5 text-center mr-2 mb-2"
-                >
-                  My Resume
-                </button>
+                <div className="flex justify-center">
+                  <a href="https://nuxt-axios.vercel.app/">
+                    <button
+                      type="button"
+                      className="text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-10 py-2.5 text-center mr-2 mb-2"
+                    >
+                      Demo
+                    </button>
+                  </a>
+                  <a href="https://github.com/SamuelFlet/nuxtweatherapp">
+                    <button
+                      type="button"
+                      className="text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-10 py-2.5 text-center mr-2 mb-2"
+                    >
+                      Source Code
+                    </button>
+                  </a>
+                </div>
               </div>
             </div>
           </div>
@@ -80,12 +92,24 @@ export default function App() {
                   <p className="px-2">React </p>
                   <p className="px-2">Django-Rest</p>
                 </div>
-                <button
-                  type="button"
-                  className="text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-10 py-2.5 text-center mr-2 mb-2"
-                >
-                  My Resume
-                </button>
+                <div className="flex justify-center">
+                  <a href="https://samsheadphones.vercel.app/">
+                    <button
+                      type="button"
+                      className="text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-10 py-2.5 text-center mr-2 mb-2"
+                    >
+                      Demo
+                    </button>
+                  </a>
+                  <a href="https://github.com/SamuelFlet/samsheadphones">
+                    <button
+                      type="button"
+                      className="text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-10 py-2.5 text-center mr-2 mb-2"
+                    >
+                      Source Code
+                    </button>
+                  </a>
+                </div>
               </div>
             </div>
           </div>
@@ -109,12 +133,24 @@ export default function App() {
                   <p className="px-2">React </p>
                   <p className="px-2">GraphQL</p>
                 </div>
-                <button
-                  type="button"
-                  className="text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-10 py-2.5 text-center mr-2 mb-2"
-                >
-                  My Resume
-                </button>
+                <div className="flex justify-center">
+                  <a href="https://unsent-letters.vercel.app/">
+                    <button
+                      type="button"
+                      className="text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-10 py-2.5 text-center mr-2 mb-2"
+                    >
+                      Demo
+                    </button>
+                  </a>
+                  <a href="https://github.com/SamuelFlet/unsentLetters">
+                    <button
+                      type="button"
+                      className="text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-10 py-2.5 text-center mr-2 mb-2"
+                    >
+                      Source Code
+                    </button>
+                  </a>
+                </div>
               </div>
             </div>
           </div>
