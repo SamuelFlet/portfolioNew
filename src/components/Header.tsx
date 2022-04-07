@@ -18,7 +18,7 @@ export default function Header() {
           <ul className="flex flex-col font-mono mt-4 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium">
             <li className="pl-4 pr-4">
               <a
-                href="#"
+                href="#projects"
                 className="text-lg block text-white md:bg-transparent hover:text-sky-400"
                 aria-current="page"
               >
