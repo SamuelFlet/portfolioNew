@@ -45,7 +45,7 @@ export default function App() {
                 </h5>
                 <div className="flex justify-center pb-3">
                   <p className="px-2">Vue </p>
-                  <p className="px-2">Rest API</p>
+                  <p className="px-2">NuxtJS </p>
                 </div>
                 <button
                   type="button"
@@ -75,7 +75,7 @@ export default function App() {
                 <div className="flex justify-center pb-3">
                   <p className="px-2">Django </p>
                   <p className="px-2">React </p>
-                  <p className="px-2">Rest API</p>
+                  <p className="px-2">Django-Rest</p>
                 </div>
                 <button
                   type="button"
