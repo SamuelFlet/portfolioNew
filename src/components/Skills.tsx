@@ -38,7 +38,7 @@ export default function Skills() {
               <ReactSVG src={ts} />
             </div>
 
-            <h2 className="text-center text-xl font-bold pb-10">Typescript</h2>
+            <h2 className="text-center text-xl font-bold pb-10">TypeScript</h2>
           </div>
         </div>
         <div className="px-12">
