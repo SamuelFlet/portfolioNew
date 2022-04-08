@@ -27,7 +27,7 @@ export default function Header() {
             </li>
             <li className="pl-4 pr-4">
               <a
-                href="#"
+                href="#skills"
                 className="text-lg block text-white md:bg-transparent hover:text-sky-400"
               >
                 Skills

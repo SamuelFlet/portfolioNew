@@ -4,6 +4,7 @@ import "../styles/App.css";
 import Intro from "../components/Intro";
 import Divider from "../components/Divider";
 import Projects from "../components/Projects";
+import Skills from "../components/Skills";
 
 export default function App() {
   return (
@@ -11,6 +12,8 @@ export default function App() {
       <Intro />
       <Divider />
       <Projects />
+      <Divider />
+      <Skills />
     </div>
   );
 }
