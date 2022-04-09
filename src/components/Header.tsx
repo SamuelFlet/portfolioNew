@@ -33,14 +33,6 @@ export default function Header() {
                 Skills
               </a>
             </li>
-            <li className="pl-4 pr-4">
-              <a
-                href="#"
-                className="text-lg block text-white md:bg-transparent hover:text-sky-400"
-              >
-                About
-              </a>
-            </li>
           </ul>
         </div>
         <div className="flex ml-96">
