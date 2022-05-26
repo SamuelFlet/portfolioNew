@@ -11,7 +11,7 @@ import { ReactSVG } from "react-svg";
 
 export default function Skills() {
   return (
-    <div id="skills" className="pt-20 pb-20">
+    <div id="skills" className="pt-20 pb-20" tabIndex={0}>
       <h2 className="text-6xl font-bold pb-10">Skills</h2>
       <div className="flex flex-wrap">
         <div className="">
