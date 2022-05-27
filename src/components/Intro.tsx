@@ -11,7 +11,7 @@ export default function Intro() {
     <div id="into" className="pt-20 pb-20">
       <div className="grid grid-cols-2 gap-4">
         <div className="pt-40">
-          <h2 className="text-6xl font-bold">Hello there,</h2>
+          <h1 className="text-6xl font-bold">Hello there,</h1>
           <p className="font-sans pt-4 w-96">
             Hello there, I'm Samuel Fletcher. I am a Fullstack developer who
             works with React, Vue, and multiple backend frameworks
@@ -28,7 +28,7 @@ export default function Intro() {
             </button>
           </div>
         </div>
-        <div className="">
+        <div role="img" aria-label="An animated gif">
           <Animate />
         </div>
       </div>
