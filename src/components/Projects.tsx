@@ -13,17 +13,17 @@ export default function Projects(){
               <img className="rounded-t-lg" src={weatherapp} alt="" />
 
               <div className="p-5 text-center">
-                <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                <h3 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                   Sam's Weather Site
-                </h5>
+                </h3>
                 <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
                   Sam's weather site displays the current forecast or 3-day
                   forecast for a location the user inputs. All data is pulled
                   from weatherapi.com.
                 </p>
-                <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                <h4 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                   Tech Stack
-                </h5>
+                </h4>
                 <div className="flex justify-center pb-3">
                   <p className="px-2">Vue </p>
                   <p className="px-2">NuxtJS </p>
@@ -54,17 +54,17 @@ export default function Projects(){
               <img className="rounded-t-lg" src={headphone} alt="" />
 
               <div className="p-5">
-                <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                <h3 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                   Headphone Database
-                </h5>
+                </h3>
                 <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
                   Headphone Database is a site where users can submit headphones
                   to the database. Users can leave reviews and list headphones
                   for sale.
                 </p>
-                <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                <h4 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                   Tech Stack
-                </h5>
+                </h4>
                 <div className="flex justify-center pb-3">
                   <p className="px-2">Django </p>
                   <p className="px-2">React </p>
@@ -96,16 +96,16 @@ export default function Projects(){
               <img className="rounded-t-lg" src={unsent} alt="" />
 
               <div className="p-5 text-center">
-                <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                <h3 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                   Unsent Letters
-                </h5>
+                </h3>
                 <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
                   Unsent Letters exists to allow people to write out letters.
                   Each letter can be edited or deleted upon request.
                 </p>
-                <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                <h4 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                   Tech Stack
-                </h5>
+                </h4>
                 <div className="flex justify-center pb-3">
                   <p className="px-2">Express </p>
                   <p className="px-2">React </p>
